@@ -1,5 +1,8 @@
 # Net Profits, UQ Physical Computing 2017
+
 Portfolio site for the interaction design project 'Net Profits'
+
+https://dean-l.github.io/net_profits_2017/
 
 Net Profits is a fully interactive virtual fish pond, that gives students an exciting incentive to perform well in class. The installation allows student’s to do a variety of activities, such as throwing tokens into the pond, feeding the fish, and cleaning the pond. Each of these interactions use physical objects in some way, and the pond will depict real time feedback in turn to create an experience that simulates an actual fish pond.
 
