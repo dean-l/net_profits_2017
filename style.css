@@ -1,0 +1,128 @@
+h1, h2, h3, h4{
+    font-family: "Century Gothic";
+}
+html, body{
+    height: 100%;
+}
+p{
+    font-family: "Trebuchet MS";
+    font-size: 16px;
+}
+.navbar {
+    margin-bottom: 0;
+    padding-bottom: 0px;
+    background-color: cyan;
+    border: 0;
+    font-size: 11px !important;
+}
+.nav_container{
+    padding: 0px;
+}
+
+.navbar li a, .navbar .navbar-brand { 
+    color: #000 !important;
+    font-size: 20px !important;
+}
+
+.navbar-nav li a:hover, .navbar-brand:hover{
+    color: #fff !important;
+}
+
+.navbar-nav li.active a{
+    color: #fff !important;
+    background-color: cyan !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    background-color: cyan !important;
+}
+.navbar-collapse{
+    border: 0px;
+}
+.icon-bar{
+    background-color: black !important;
+}
+
+.open .dropdown-toggle {
+    color: #fff ;
+    background-color: cyan !important;
+}
+
+.dropdown-menu{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 0px;
+    border-width: 0px;
+    width: 100%;
+}
+.dropdown-menu li a {
+    color: #000 !important;
+}
+
+
+.dropdown-menu li a:hover {
+    background-color: cyan;
+    color: black;
+}
+.page_title_div{
+    position: absolute;
+    color: #fff;
+    padding-top: 20%;
+}
+.page_title_h1{
+    font-size: 80px;
+    letter-spacing: 5px;
+}
+.page_title_h2{
+    font-size: 60px;
+}
+.sub_title_h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+}
+.banner_img{
+    padding: 0;
+    background-color: cyan;
+}
+.banner_img img{
+    width: 100%;
+}
+.video{
+    text-align: center;
+    width: 100%;
+    height: 35vw;
+}
+.divider{
+    background-color: cyan;
+}
+.nav_100spacer{
+    height: 100px;
+}
+.nav_50spacer{
+    height: 50px;
+}
+.personal_img{
+    height: 200px;
+    padding-bottom: 20px;
+}
+.sidebar_img{
+    width: 100%;
+    padding-bottom: 20px;
+}
+.report_img{
+    height: 200px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 5px #888888; 
+}
+.report_div{
+    text-align: center;
+}
+.fadein{
+    opacity: 0;
+}
+.footer{
+    padding: 40px;
+    text-align: center;
+}
