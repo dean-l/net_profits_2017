@@ -11,7 +11,7 @@ p{
 .navbar {
     margin-bottom: 0;
     padding-bottom: 0px;
-    background-color: cyan;
+    background-color: #00cccc;
     border: 0;
     font-size: 11px !important;
 }
@@ -30,12 +30,12 @@ p{
 
 .navbar-nav li.active a{
     color: #fff !important;
-    background-color: cyan !important;
+    background-color: #00cccc !important;
 }
 
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    background-color: cyan !important;
+    background-color: #00cccc !important;
 }
 .navbar-collapse{
     border: 0px;
@@ -46,7 +46,7 @@ p{
 
 .open .dropdown-toggle {
     color: #fff ;
-    background-color: cyan !important;
+    background-color: #00cccc !important;
 }
 
 .dropdown-menu{
@@ -62,7 +62,7 @@ p{
 
 
 .dropdown-menu li a:hover {
-    background-color: cyan;
+    background-color: #00cccc;
     color: black;
 }
 .page_title_div{
@@ -84,7 +84,7 @@ p{
 }
 .banner_img{
     padding: 0;
-    background-color: cyan;
+    background-color: #00cccc;
 }
 .banner_img img{
     width: 100%;
@@ -95,7 +95,7 @@ p{
     height: 35vw;
 }
 .divider{
-    background-color: cyan;
+    background-color: #00cccc;
 }
 .nav_100spacer{
     height: 100px;
